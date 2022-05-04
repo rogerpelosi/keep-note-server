@@ -4,7 +4,7 @@
   "description": "Demo server used for authentication demo",
   "main": "index.js",
   "scripts": {
-    "start": "node server/bin/www"
+    "serve": "node server/bin/www"
   },
   "author": "",
   "license": "ISC",
